@@ -1,1 +1,1 @@
-# This is standford statistical learning course
+# This is Stanford statistical learning course
